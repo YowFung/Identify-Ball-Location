@@ -1,2 +1,2 @@
-# Identify-Ball-Location
-Intelligent identifying the location of the ball base on OpenMV-MiniPython
+### 项目介绍
+这是我参加 2017 年全国大学生电子设计竞赛时写的一个图像识别算法程序。该竞赛题目为 `板球系统`，要求一个小球放在一块平板上，通过点击控制平板转到，以实现让小球停留在指定位置且能够让小球按指定轨迹运动。这个图像识别的算法是该项目的一部分，硬件搭建在 OpenMV 上，使用 MiniPython 编程语言，该算法能够精确检测出小球在平板上的坐标位置，并能够很好地过滤杂物干扰。
